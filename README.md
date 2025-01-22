@@ -2,17 +2,20 @@
 
 <p> My name is Aleksandr and I'm a beginner Software QA Engineer. I'm excited to share my web and mobile testing portfolio as I progress in my studies and pet-projects.</p> 
 
-## A Few Quick Facts
-
-<img align="right" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/d09adf05a57c04b5aa0aa419359abe5062a9298047c6fab7491c30ad99988c10.gif" height="245">
-
-<ul>
-<li> 😌 Recently finished a <a href="">functional software testing course</a> and am looking to gain practical experience. </li>
-<li> I'm compiling my study cases on <a href="https://github.com/AleksandrBarchuk">Github</a> to demonstrate my progress.</li> </li>
-<li> 📖 I'm actively learning English in my free time to enhance my communication skills.</li>
-<li> 📙 Please take a look at my <a href="">resume</a> for a more detailed overview.</li> 
-<li> 🧣 Random fact about me:  </li>
-</ul>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/d09adf05a57c04b5aa0aa419359abe5062a9298047c6fab7491c30ad99988c10.gif" style="width: 50%; max-width: 400px;">
+  
+  <div style="flex: 1;">
+     <h2>A Few Quick Facts</h2>
+     <ul>
+       <li> 😌 Recently finished a <a href="">functional software testing course</a> and am looking to gain practical experience. </li>
+       <li> I'm compiling my study cases on <a href="https://github.com/AleksandrBarchuk">Github</a> to demonstrate my progress.</li> </li>
+       <li> 📖 I'm actively learning English in my free time to enhance my communication skills.</li>
+       <li> 📙 Please take a look at my <a href="">resume</a> for a more detailed overview.</li> 
+       <li> 🧣 Random fact about me:  </li>
+     </ul>
+  </div>
+</div>
 
 <h2>Some Tools I Use</h2>   
 
