@@ -2,7 +2,7 @@
 
 <p> My name is Aleksandr and I'm a beginner Software QA Engineer. I'm excited to share my web and mobile testing portfolio as I progress in my studies and pet-projects.</p> 
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
    <img align="left" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/d09adf05a57c04b5aa0aa419359abe5062a9298047c6fab7491c30ad99988c10.gif" style="width: 300px; margin-right: 20px;">
    <div>
      ## A Few Quick Facts
@@ -16,8 +16,8 @@
     </div>
 </div>
   
-## Some Tools I Use
-<p style="text-align: center;">
+<h2 style="margin-bottom: 20px;">Some Tools I Use</h2>
+<p style="text-align: center; margin-bottom: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
 </p>
-## Test Artifacts 
+<h2 style="margin-bottom: 20px;">Test Artifacts</h2>
 <p> 
  <ul>
     
@@ -49,6 +49,7 @@
 <li> <a href="https://github.com//git"> Git </a> </li>
 </ul>
 </p>
+
 <h3 align="center"> Take a look at my repositories and let's get in touch! </h3>
 <p align="center">
 <a href= "https://www.linkedin.com/in//"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
