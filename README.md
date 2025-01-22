@@ -4,7 +4,7 @@
 
 
   <h2>Few Quick Facts</h2>    
-      <img align="right", src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
+      <img align="right", src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/d09adf05a57c04b5aa0aa419359abe5062a9298047c6fab7491c30ad99988c10.gif" height="245">
         <ul>
             <li> 😌 Recently finished a <a href="">functional software testing course</a> and am looking to gain practical experience. </li>
             <li> I'm compiling my study cases on <a href="https://github.com/AleksandrBarchuk">Github</a> to demonstrate my progress.</li>
@@ -53,7 +53,8 @@
 
 <h3> align="center"> Take a look at my repositories and let's get in touch! </h3>
 <p> align="center">
-<a href= "https://www.linkedin.com/in//"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
+<a> href= "https://www.linkedin.com/in//"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/
+</a>
 <a href= "https://t.me/MissterAlex"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
 <a href="mailto:shura.barchuk@mail.ru" target="_blank"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40" height="40" alt="mail"/></a>
 </p>
