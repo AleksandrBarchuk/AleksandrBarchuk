@@ -16,7 +16,7 @@
     </div>
 </div>
   
-<h2 style="margin-top: 300px; margin-bottom: 20px;">Some Tools I Use</h2>
+<h2 style="margin-top: 350px; margin-bottom: 20px;">Some Tools I Use</h2>
 <p style="text-align: center; margin-bottom: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>
