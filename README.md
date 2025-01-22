@@ -13,7 +13,7 @@
             <li> 🧣 Random fact about me:  </li>
         </ul>
     </div>
-    <img align="right" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/d09adf05a57c04b5aa0aa419359abe5062a9298047c6fab7491c30ad99988c10.gif" style="width: 300px; height: auto;">
+    <img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245" style="margin-left: 20px;">
 </div>
 
 <h2 style="margin-top: 20px; margin-bottom: 20px;">Some Tools I Use</h2>
@@ -26,8 +26,8 @@
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="soapui" alt="soapui" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>
-   <img src="https://ph-files.imgix.net/f1aba60e-b071-4afd-bde6-7c123853a3ae.png?auto=format" title="proxyman" alt="proxyman" width="40" height="40"/>
+   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>
+     <img src="https://ph-files.imgix.net/f1aba60e-b071-4afd-bde6-7c123853a3ae.png?auto=format" title="proxyman" alt="proxyman" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
@@ -50,7 +50,6 @@
 <li> <a href="https://github.com/AleksandrBarchuk/git"> Git </a> </li>
 </ul>
 </p>
-
 <h3 align="center"> Take a look at my repositories and let's get in touch! </h3>
 <p align="center">
 <a href= "https://www.linkedin.com/in//"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
