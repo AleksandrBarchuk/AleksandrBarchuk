@@ -2,9 +2,9 @@
 
 <p> My name is Aleksandr and I'm a beginner Software QA Engineer. I'm excited to share my web and mobile testing portfolio as I progress in my studies and pet-projects.</p> 
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
-    <div style="flex: 1;">
-        ## A Few Quick Facts
+
+  <h2>Few Quick Facts</h2>    
+      <img align="right", src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
         <ul>
             <li> 😌 Recently finished a <a href="">functional software testing course</a> and am looking to gain practical experience. </li>
             <li> I'm compiling my study cases on <a href="https://github.com/AleksandrBarchuk">Github</a> to demonstrate my progress.</li>
@@ -12,8 +12,8 @@
             <li> 📙 Please take a look at my <a href="">resume</a> for a more detailed overview.</li>
             <li> 🧣 Random fact about me:  </li>
         </ul>
-    </div>
-    <img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245" style="margin-left: 20px;">
+    
+    
 </div>
 
 <h2 style="margin-top: 20px; margin-bottom: 20px;">Some Tools I Use</h2>
@@ -26,8 +26,8 @@
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="soapui" alt="soapui" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>
-   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>
-     <img src="https://ph-files.imgix.net/f1aba60e-b071-4afd-bde6-7c123853a3ae.png?auto=format" title="proxyman" alt="proxyman" width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>
+   <img src="https://ph-files.imgix.net/f1aba60e-b071-4afd-bde6-7c123853a3ae.png?auto=format" title="proxyman" alt="proxyman" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
@@ -50,8 +50,9 @@
 <li> <a href="https://github.com/AleksandrBarchuk/git"> Git </a> </li>
 </ul>
 </p>
-<h3 align="center"> Take a look at my repositories and let's get in touch! </h3>
-<p align="center">
+
+<h3> align="center"> Take a look at my repositories and let's get in touch! </h3>
+<p> align="center">
 <a href= "https://www.linkedin.com/in//"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "https://t.me/MissterAlex"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
 <a href="mailto:shura.barchuk@mail.ru" target="_blank"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40" height="40" alt="mail"/></a>
