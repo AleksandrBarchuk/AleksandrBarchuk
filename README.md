@@ -4,7 +4,7 @@
 
 
   <h2>Few Quick Facts</h2>    
-      <img align="right", src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/d09adf05a57c04b5aa0aa419359abe5062a9298047c6fab7491c30ad99988c10.gif" height="200">
+      <img align="right", src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/d09adf05a57c04b5aa0aa419359abe5062a9298047c6fab7491c30ad99988c10.gif" height="195">
         <ul>
             <li> 😌 Recently finished a <a href="">functional software testing course</a> and am looking to gain practical experience. </li>
             <li> I'm compiling my study cases on <a href="https://github.com/AleksandrBarchuk">Github</a> to demonstrate my progress.</li>
