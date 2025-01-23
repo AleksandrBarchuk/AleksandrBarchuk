@@ -40,7 +40,7 @@
 <p>
  <ul>
     
-<li>  <a href="https://github.com/AleksandrBarchuk/web_testing">HomeworkTests_WebStore</a>  </li>
+<li>  <a href="https://github.com/AleksandrBarchuk/WebStore_tests">Homework-Tests_WebStore</a>  </li>
 <li>  <a href="https://github.com/AleksandrBarchuk/api_testing"> REST and SOAP API testing via Postman </a>   </li>
 <li> <a href="https://github.com/AleksandrBarchuk/sql">MySQL</a>   </li>
 <li>  <a href="https://github.com/AleksandrBarchuk/mongodb">MongoDB</a>  </li>
