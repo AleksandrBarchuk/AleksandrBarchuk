@@ -4,7 +4,7 @@
 
 
   <h2>Few Quick Facts</h2>    
-      <img align="right", src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/d09adf05a57c04b5aa0aa419359abe5062a9298047c6fab7491c30ad99988c10.gif" height="195" width="350">
+      <img align ="right", src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/d09adf05a57c04b5aa0aa419359abe5062a9298047c6fab7491c30ad99988c10.gif" height="195" width="350">
         <ul>
             <li> 😌 Recently finished a <a href="">functional software testing course</a> and am looking to gain practical experience. </li>
             <li> I'm compiling my study cases on <a href="https://github.com/AleksandrBarchuk">Github</a> to demonstrate my progress.</li>
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>
-  <img src="c" title="figma" alt="figma" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=qVV0FnM4YE02&format=png&color=000000" title="figma" alt="figma" width="40" height="40"/>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="soapui" alt="soapui" width="40" height="40"/>
@@ -53,8 +53,7 @@
 
 <h3> align="center"> Take a look at my repositories and let's get in touch! </h3>
 <p> align="center">
-<a> href= "https://www.linkedin.com/in//"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/
-</a>
+<a href= "https://www.linkedin.com/in//"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"></a>
 <a href= "https://t.me/MissterAlex"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
 <a href="mailto:shura.barchuk@mail.ru" target="_blank"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40" height="40" alt="mail"/></a>
 </p>
