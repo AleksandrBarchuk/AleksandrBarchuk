@@ -51,9 +51,9 @@
 </ul>
 </p>
 
-<h3> align="center"> Take a look at my repositories and let's get in touch! </h3>
-<p> align="center">
+<h3 align="center"> Take a look at my repositories and let's get in touch! </h3>
+<p align="center">
 <a href= "https://www.linkedin.com/in//"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"></a>
 <a href= "https://t.me/MissterAlex"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
-<a href="mailto:shura.barchuk@mail.ru" target="_blank"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40" height="40" alt="mail"/></a>
+<a href="mailto:shura.barchuk@mail.ru" target="_blank"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40" height="40" alt="mail"></a>
 </p>
