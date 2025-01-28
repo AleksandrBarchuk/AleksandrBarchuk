@@ -47,7 +47,7 @@
 <li>  <a href="https://github.com/AleksandrBarchuk/Mobile_App-testing"> Android app testing</a>   </li>
 <li> <a href="https://github.com/AleksandrBarchuk/ChurlesProxy">Replacing data with CharlesProxy</a>  </li>
 <li> <a href="https://github.com/AleksandrBarchuk/bash"> Bash </a>  </li>
-<li> <a href="https://github.com/AleksandrBarchuk/git"> Git </a> </li>
+
 </ul>
 </p>
 
