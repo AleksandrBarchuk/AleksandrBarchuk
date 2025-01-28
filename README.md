@@ -44,7 +44,7 @@
 <li>  <a href="https://github.com/AleksandrBarchuk/-REST-and-SOAP-API-testing-via-Postman"> REST and SOAP API testing via Postman </a>   </li>
 <li> <a href="https://github.com/AleksandrBarchuk/-MySQL-">MySQL</a>   </li>
 <li>  <a href="https://github.com/AleksandrBarchuk/mongodb">MongoDB</a>  </li>
-<li>  <a href="https://github.com/AleksandrBarchuk/mobile_testing"> Android app testing</a>   </li>
+<li>  <a href="https://github.com/AleksandrBarchuk/Mobile_App-testing"> Android app testing</a>   </li>
 <li> <a href="https://github.com/AleksandrBarchuk/charlesproxy">Replacing data with CharlesProxy</a>  </li>
 <li> <a href="https://github.com/AleksandrBarchuk/bash"> Bash </a>  </li>
 <li> <a href="https://github.com/AleksandrBarchuk/git"> Git </a> </li>
