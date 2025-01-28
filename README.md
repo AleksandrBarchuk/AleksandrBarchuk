@@ -10,7 +10,7 @@
             <li> I'm compiling my study cases on <a href="https://github.com/AleksandrBarchuk">Github</a> to demonstrate my progress.</li>
             <li> 📖 I'm actively learning English in my free time to enhance my communication skills.</li>
             <li> 📙 Please take a look at my <a href="">resume</a> for a more detailed overview.</li>
-            <li> 🧣 Random fact about me:  </li>
+            <li> 🧣 Random fact about me: I prefer to play sports.  I love trading. The series "The World of the Wild West ".  </li>
         </ul>
     
     
